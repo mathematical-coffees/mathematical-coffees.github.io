@@ -1,0 +1,20 @@
+# Usign the Clean Blog theme
+
+title: Mathematical Coffees
+author: mathematical-coffees
+email: gabriel.peyre@ens.fr.fr
+description: Mathematical Coffees
+baseurl: ""
+url: "http://mathematical-coffees.github.io/"
+github_username:  mathematical-coffees
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
+exclude: ["node_modules"]
+
+name: Mathematical Coffees
+gems:
+  - jekyll-feed
+  - jekyll-paginate
