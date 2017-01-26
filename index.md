@@ -32,7 +32,7 @@ List of Speakers
 Organizers
 -----
 
-- [Mérouane Debbah](https://fr.linkedin.com/in/merouanedebbah), Huawei.
+- [Mérouane Debbah](merouane.debbah@huawei.com), Huawei.
 - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
 
 Sponsors
