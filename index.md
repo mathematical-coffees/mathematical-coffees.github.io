@@ -29,7 +29,7 @@ List of Speakers
 - [Robin Ryder](https://sites.google.com/site/robryd/), Paris-Dauphine.  
 - [Gael Varoquaux](http://gael-varoquaux.info/), INRIA.
 
-Organizer
+Organizers
 -----
 
 - [Mérouane Debbah](mailto:merouane.debbah at huawei.com), Huawei.
