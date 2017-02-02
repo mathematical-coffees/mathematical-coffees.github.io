@@ -5,7 +5,7 @@ description: "Huawei-FSMP joint seminars"
 header-img: "img/15024302808_9ebd5ae35e_o.jpg"
 ---
 
-The Mathematical Coffees is a joint series of seminars organized jointly by [Fondation Sciences Mathématiques de Paris](http://www.sciencesmaths-paris.fr/) and [Huawei](http://www.huawei.com). It is privately held at [Huawei research lab in Paris](https://www.huawei.eu/research-and-innovation), but the material (slides and computational resources) is freely available on this webpage.  
+The Mathematical Coffees is a joint series of seminars organized jointly by [Fondation Sciences Mathématiques de Paris](http://www.sciencesmaths-paris.fr/) and [Huawei](http://www.huawei.com). It is privately held at [Huawei Paris Research Center]((https://www.huawei.eu/research-and-innovation)), but the material (slides and computational resources) is freely available on this webpage.  
 
 The list of the 10 Mathematical Coffees for 2017, with all the materials for those that have been done, [is available here](./listing).
 
