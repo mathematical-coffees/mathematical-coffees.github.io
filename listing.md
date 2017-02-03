@@ -7,12 +7,20 @@ header-img: "img/2295096211_1c641c008e_b.jpg"
 
 You can find bellow the list of Mathematical Coffees for 2017. The chairman of these seminar is [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS).
 
+Available
+---
+
 1. [Optimal Transport Meets Machine Learning](../mc01-ot), (Jan. 20, 14h-17h):
   - [Marco Cuturi](http://marcocuturi.net/), ENSAE.
   - [Nicolas Courty](http://people.irisa.fr/Nicolas.Courty/), IRISA.  
 2. [Geodesics and Fast Marching](../mc02-geodesic) (Feb. 3rd, 14h-17h):
   - [Laurent Cohen](https://www.ceremade.dauphine.fr/~cohen/), CNRS and Paris-Dauphine.
   - [Jean-Marie Mirebeau](https://www.math.u-psud.fr/~mirebeau/Main_page.html), CNRS and Paris-Sud.
+
+
+To come
+---
+
 3. Mesh Processing and Vizualization (Feb. 28th, 14h-17h)
   - [Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/), INRIA.
   - [Julien Tierny](http://www-pequan.lip6.fr/~tierny/), CNRS and Paris 6.
