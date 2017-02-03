@@ -10,7 +10,7 @@ You can find bellow the list of Mathematical Coffees for 2017. The chairman of t
 1. [Optimal Transport Meets Machine Learning](../mc01-ot), (Jan. 20, 14h-17h):
   - [Marco Cuturi](http://marcocuturi.net/), ENSAE.
   - [Nicolas Courty](http://people.irisa.fr/Nicolas.Courty/), IRISA.  
-2. Geodesics and Fast Marching (Feb. 3rd, 14h-17h):
+2. [Geodesics and Fast Marching](../mc02-geodesic) (Feb. 3rd, 14h-17h):
   - [Laurent Cohen](https://www.ceremade.dauphine.fr/~cohen/), CNRS and Paris-Dauphine.
   - [Jean-Marie Mirebeau](https://www.math.u-psud.fr/~mirebeau/Main_page.html), CNRS and Paris-Sud.
 3. Mesh Processing and Vizualization (Feb. 28th, 14h-17h)
@@ -27,7 +27,7 @@ You can find bellow the list of Mathematical Coffees for 2017. The chairman of t
   - [Alexandre Gramfort](http://alexandre.gramfort.net/), Telecom ParisTech.
 7. Neuro-Imaging meets Machine Learning (July 3rd, 14h-17h)
   - [Gael Varoquaux](http://gael-varoquaux.info/), INRIA.
-  - [Alexandre Gramfort](http://alexandre.gramfort.net/), Telecom ParisTech. 
+  - [Alexandre Gramfort](http://alexandre.gramfort.net/), Telecom ParisTech.
 8. Patch-based Imaging (Sep. 11th, 14h-17h)
   - [Julie Delon](https://delon.wp.imt.fr/), Paris 5.   
   - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
