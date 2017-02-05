@@ -10,7 +10,7 @@ Slides
 
 - [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS): [Geodesics and Fast Marching Methods](../slides/mc02-peyre.pdf).
 - [Laurent Cohen](https://www.ceremade.dauphine.fr/~cohen/), (CNRS and Paris-Dauphine): [Fast Marching  and applications](../slides/mc02-cohen.pdf).
-- [Jean-Marie Mirebeau](https://www.math.u-psud.fr/~mirebeau/Main_page.html), (CNRS and Paris-Sud): [...](../slides/mc02-mirebeau.pdf)
+- [Jean-Marie Mirebeau](https://www.math.u-psud.fr/~mirebeau/Main_page.html), (CNRS and Paris-Sud): [Anisotropic Fast-Marching methods](../slides/mc02-mirebeau.pdf)
 
 
 Computational resources
