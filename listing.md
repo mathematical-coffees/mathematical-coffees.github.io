@@ -16,14 +16,13 @@ Available
 2. [Geodesics and Fast Marching](../mc02-geodesic) (Feb. 3rd, 14h-17h):
   - [Laurent Cohen](https://www.ceremade.dauphine.fr/~cohen/), CNRS and Paris-Dauphine.
   - [Jean-Marie Mirebeau](https://www.math.u-psud.fr/~mirebeau/Main_page.html), CNRS and Paris-Sud.
-
+3. [Geometrical and Topological Data Analysis](../mc03-meshes) (Feb. 28th, 14h-17h)
+  - [Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/), INRIA.
+  - [Julien Tierny](http://www-pequan.lip6.fr/~tierny/), CNRS and Paris 6.
 
 To come
 ---
 
-3. Mesh Processing and Vizualization (Feb. 28th, 14h-17h)
-  - [Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/), INRIA.
-  - [Julien Tierny](http://www-pequan.lip6.fr/~tierny/), CNRS and Paris 6.
 4. Convex Optimization (April 18th, 14h-17h)
   - [Alexandre Gramfort](http://alexandre.gramfort.net/), Telecom ParisTech.   
   - [Matthieu Kowalski](http://webpages.lss.supelec.fr/perso/matthieu.kowalski/), Supelec.
