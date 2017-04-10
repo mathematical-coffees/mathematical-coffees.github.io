@@ -25,9 +25,9 @@ To come
 
 4. Convex Optimization (April 18th, 14h-17h)
   - [Alexandre Gramfort](http://alexandre.gramfort.net/), Telecom ParisTech.   
-  - [Matthieu Kowalski](http://webpages.lss.supelec.fr/perso/matthieu.kowalski/), Supelec.
+  - [Matthieu Kowalski](http://webpages.lss.supelec.fr/perso/matthieu.kowalski/), Paris-Sud.
 5. Deep learning (May 19th, 14h-17h)
-  - [Alexandre Allauzen](https://perso.limsi.fr/allauzen/webpages/pmwiki.php), Paris-Sud
+  - [Alexandre Allauzen](https://perso.limsi.fr/allauzen/webpages/pmwiki.php), Paris-Sud.
   - [Guillaume Charpiat](https://www.lri.fr/~gcharpia/), INRIA.
 6. Sparsity and Compressed Sensing (June 8th, 14h-17h)
   - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.

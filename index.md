@@ -22,7 +22,7 @@ List of Speakers
 - [Julie Delon](https://delon.wp.imt.fr/), Paris 5.  
 - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.  
 - [Alexandre Gramfort](http://alexandre.gramfort.net/), Telecom ParisTech.  
-- [Matthieu Kowalski](http://webpages.lss.supelec.fr/perso/matthieu.kowalski/), Supelec.
+- [Matthieu Kowalski](http://webpages.lss.supelec.fr/perso/matthieu.kowalski/), Paris-Sud.
 - [Jean-Marie Mirebeau](https://www.math.u-psud.fr/~mirebeau/Main_page.html), CNRS and Paris-Sud.  
 - [Fabian Pedregosa](http://fa.bianp.net/), INRIA.
 - [Julien Tierny](http://www-pequan.lip6.fr/~tierny/), CNRS and Paris 6.  
