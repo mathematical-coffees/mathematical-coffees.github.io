@@ -9,7 +9,7 @@ Slides
 ----
 
 - [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS): [Convex Optimization](../slides/mc04-peyre.pdf).
-- [Alexandre Gramfort](http://alexandre.gramfort.net/) (INRIA): [Digital Geometry Processing](../slides/mc03-alliez.pdf).
+- [Alexandre Gramfort](http://alexandre.gramfort.net/) (INRIA): [ A practical tour of optimization algorithms for the Lasso](../slides/mc04-gramfort.pdf), ([additional material](../mc04-gramfort.zip)).
 - [Matthieu Kowalski](http://webpages.lss.supelec.fr/perso/matthieu.kowalski/) (Paris-Sud): [*-Lasso Therapy: a sparse synthesis approach](../slides/mc04-kowalski.pdf), ([additional material](../slides/mc04-kowalski-additional.pdf)).
 
 
