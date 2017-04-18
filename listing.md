@@ -19,13 +19,13 @@ Available
 3. [Geometrical and Topological Data Analysis](../mc03-meshes) (Feb. 28th, 14h-17h)
   - [Pierre Alliez](https://team.inria.fr/titane/pierre-alliez/), INRIA.
   - [Julien Tierny](http://www-pequan.lip6.fr/~tierny/), CNRS and Paris 6.
+4. [Convex Optimization](../mc04-cvx-optim) (April 18th, 14h-17h)
+  - [Alexandre Gramfort](http://alexandre.gramfort.net/), INRIA.   
+  - [Matthieu Kowalski](http://webpages.lss.supelec.fr/perso/matthieu.kowalski/), Paris-Sud.
 
 To come
 ---
 
-4. Convex Optimization (April 18th, 14h-17h)
-  - [Alexandre Gramfort](http://alexandre.gramfort.net/), Telecom ParisTech.   
-  - [Matthieu Kowalski](http://webpages.lss.supelec.fr/perso/matthieu.kowalski/), Paris-Sud.
 5. Deep learning (May 19th, 14h-17h)
   - [Alexandre Allauzen](https://perso.limsi.fr/allauzen/webpages/pmwiki.php), Paris-Sud.
   - [Guillaume Charpiat](https://www.lri.fr/~gcharpia/), INRIA.
