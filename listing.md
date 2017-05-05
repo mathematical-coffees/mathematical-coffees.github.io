@@ -22,16 +22,18 @@ Available
 4. [Convex Optimization](../mc04-cvx-optim) (April 18th, 14h-17h)
   - [Alexandre Gramfort](http://alexandre.gramfort.net/), INRIA.   
   - [Matthieu Kowalski](http://webpages.lss.supelec.fr/perso/matthieu.kowalski/), Paris-Sud.
+5. [Deep learning](../mc05-deep-learning) (May 19th, 14h-17h)
+  - [Alexandre Allauzen](https://perso.limsi.fr/allauzen/webpages/pmwiki.php), Paris-Sud.
+  - [Guillaume Charpiat](https://www.lri.fr/~gcharpia/), INRIA.
+
+
 
 To come
 ---
 
-5. Deep learning (May 19th, 14h-17h)
-  - [Alexandre Allauzen](https://perso.limsi.fr/allauzen/webpages/pmwiki.php), Paris-Sud.
-  - [Guillaume Charpiat](https://www.lri.fr/~gcharpia/), INRIA.
 6. Sparsity and Compressed Sensing (June 8th, 14h-17h)
   - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
-  - [Alexandre Gramfort](http://alexandre.gramfort.net/), Telecom ParisTech.
+  - [Guillaume Lecué](http://lecueguillaume.github.io/), CNRS and ENSAE.
 7. Neuro-Imaging meets Machine Learning (July 3rd, 14h-17h)
   - [Gael Varoquaux](http://gael-varoquaux.info/), INRIA.
   - [Alexandre Gramfort](http://alexandre.gramfort.net/), Telecom ParisTech.
