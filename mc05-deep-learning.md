@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Deep Learning"
-description: "April 18th, 14h-17h"
+description: "May 19th, 14h-17h"
 header-img: "img/4784694098_d4239d7d08_z.jpg"
 ---
 
@@ -22,3 +22,13 @@ Autodiff and more specific deep-learning softwares (Python):
 - [TensorFlow](https://www.tensorflow.org/): similar.
 - [PyTorch](http://pytorch.org/): similar.
 - [Keras](https://keras.io/): deep learning library (on top of Theano or TensorFlow).
+- [Natural gradient in Torch](https://www.lri.fr/~marceau/code/QDRiemaNNLinearv2.tar.bz2) by Gaetan Marceau.
+
+
+Bibliography
+----
+
+Here is a (biased) bibliography related to the lectures:
+- [Deep learning](http://www.deeplearningbook.org/), Ian Goodfellow and Yoshua Bengio and Aaron Courville.
+- Reference article on natural gradient: [Riemannian metrics for neural networks I: feedforward networks, Yann Ollivier, Information and Inference](https://arxiv.org/abs/1303.0818).
+- Another article: [Practical Riemannian Neural Networks, Gaétan Marceau-Caron and Yann Ollivier](https://arxiv.org/abs/1602.08007).
