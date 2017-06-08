@@ -25,15 +25,15 @@ Available
 5. [Deep learning](../mc05-deep-learning) (May 19th, 14h-17h)
   - [Alexandre Allauzen](https://perso.limsi.fr/allauzen/webpages/pmwiki.php), Paris-Sud.
   - [Guillaume Charpiat](https://www.lri.fr/~gcharpia/), INRIA.
+6. [Sparsity and Compressed Sensing](../mc06-sparsity) (June 8th, 14h-17h)
+  - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
+  - [Guillaume Lecué](http://lecueguillaume.github.io/), CNRS and ENSAE.
 
 
 
 To come
 ---
 
-6. Sparsity and Compressed Sensing (June 8th, 14h-17h)
-  - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
-  - [Guillaume Lecué](http://lecueguillaume.github.io/), CNRS and ENSAE.
 7. Neuro-Imaging meets Machine Learning (July 3rd, 14h-17h)
   - [Gael Varoquaux](http://gael-varoquaux.info/), INRIA.
   - [Alexandre Gramfort](http://alexandre.gramfort.net/), Telecom ParisTech.
