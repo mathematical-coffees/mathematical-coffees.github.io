@@ -10,7 +10,7 @@ Slides
 
 - [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS): [Least Squares and Linear Systems](../slides/mc06-peyre.pdf).
 - [Jalal Fadili](https://fadili.users.greyc.fr/) (ENSICaen): [Sparse Regularization](../slides/mc06-fadili.pdf)
-- [Guillaume Lecué](http://lecueguillaume.github.io/) (CNRS and ENSAE): [Compressed sensing](../slides/m06-lecue.pdf).
+- [Guillaume Lecué](http://lecueguillaume.github.io/) (CNRS and ENSAE): [Compressed sensing](../slides/mc06-lecue.pdf).
 
 Computational resources
 ----

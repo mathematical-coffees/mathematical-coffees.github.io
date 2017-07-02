@@ -28,15 +28,15 @@ Available
 6. [Sparsity and Compressed Sensing](../mc06-sparsity) (June 8th, 14h-17h)
   - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
   - [Guillaume Lecué](http://lecueguillaume.github.io/), CNRS and ENSAE.
+7. [Neuro-Imaging meets Machine Learning](../mc05-ml) (July 3rd, 14h-17h)
+  - [Gael Varoquaux](http://gael-varoquaux.info/), INRIA.
+  - [Alexandre Gramfort](http://alexandre.gramfort.net/), INRIA.
 
 
 
 To come
 ---
 
-7. Neuro-Imaging meets Machine Learning (July 3rd, 14h-17h)
-  - [Gael Varoquaux](http://gael-varoquaux.info/), INRIA.
-  - [Alexandre Gramfort](http://alexandre.gramfort.net/), Telecom ParisTech.
 8. Patch-based Imaging (Sep. 11th, 14h-17h)
   - [Julie Delon](https://delon.wp.imt.fr/), Paris 5.   
   - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
