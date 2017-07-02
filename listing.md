@@ -28,7 +28,7 @@ Available
 6. [Sparsity and Compressed Sensing](../mc06-sparsity) (June 8th, 14h-17h)
   - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
   - [Guillaume Lecué](http://lecueguillaume.github.io/), CNRS and ENSAE.
-7. [Machine Learning](../mc05-ml) (July 3rd, 14h-17h)
+7. [Machine Learning](../mc07-ml) (July 3rd, 14h-17h)
   - [Gael Varoquaux](http://gael-varoquaux.info/), INRIA.
   - [Alexandre Gramfort](http://alexandre.gramfort.net/), INRIA.
 
