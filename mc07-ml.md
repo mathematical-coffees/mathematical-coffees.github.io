@@ -16,7 +16,7 @@ Slides
 Computational resources
 ----
 
-- [Scikit-Learn](http://scikit-learn.org/): machine learning in Python, contains implementations of many basic proximal splitting methods.
+- [Scikit-Learn](http://scikit-learn.org/): machine learning in Python.
 - [The numerical Tours of Signal Processing](http://www.numerical-tours.com) (in Matlab, Python and Julia) contains a section dedicated to convex optimization, with applications.
 
 Bibliography
