@@ -10,7 +10,7 @@ Slides
 
 - [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS): [Convex Optimization](../slides/mc07-peyre.pdf).
 - [Alexandre Gramfort](http://alexandre.gramfort.net/) (INRIA): [ A practical tour of optimization algorithms for the Lasso](../slides/mc07-gramfort.zip).
-- [Gael Varoquaux](http://gael-varoquaux.info/): [Scikit-Learn](../slides/mc07-varoquaux.pdf).
+- [Gael Varoquaux](http://gael-varoquaux.info/) (INRIA): [Scikit-Learn](../slides/mc07-varoquaux.pdf).
 
 
 Computational resources
