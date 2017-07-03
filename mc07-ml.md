@@ -8,8 +8,8 @@ header-img: "img/coffee-1324126_1280.jpg"
 Slides
 ----
 
-- [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS): [Convex Optimization](../slides/mc07-peyre.pdf).
-- [Alexandre Gramfort](http://alexandre.gramfort.net/) (INRIA): [ A practical tour of optimization algorithms for the Lasso](../slides/mc07-gramfort.zip).
+- [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS): [Inverse Problems meets Statistical Learning](../slides/mc07-peyre.pdf).
+- [Alexandre Gramfort](http://alexandre.gramfort.net/) (INRIA): [Introduction to standard classification models](../slides/mc07-gramfort.zip).
 - [Gael Varoquaux](http://gael-varoquaux.info/) (INRIA): [Scikit-Learn](../slides/mc07-varoquaux.pdf).
 
 
