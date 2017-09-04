@@ -37,7 +37,7 @@ Available
 To come
 ---
 
-8. Patch-based Imaging (Sep. 11th, 14h-17h)
+8. Curses and Blessing of High Dimension (Sep. 11th, 14h-17h)
   - [Julie Delon](https://delon.wp.imt.fr/), Paris 5.   
   - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
 9. Bayesian Inference (Nov. 6th, 14h-17h)
