@@ -31,15 +31,14 @@ Available
 7. [Machine Learning](../mc07-ml) (July 3rd, 14h-17h)
   - [Gael Varoquaux](http://gael-varoquaux.info/), INRIA.
   - [Alexandre Gramfort](http://alexandre.gramfort.net/), INRIA.
-
+8. [Curses and Blessing of High Dimension](../mc08-high-dimension) (Sep. 11th, 14h-17h)
+  - [Julie Delon](https://delon.wp.imt.fr/), Paris 5.   
+  - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
 
 
 To come
 ---
 
-8. Curses and Blessing of High Dimension (Sep. 11th, 14h-17h)
-  - [Julie Delon](https://delon.wp.imt.fr/), Paris 5.   
-  - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
 9. Bayesian Inference (Nov. 6th, 14h-17h)
   - [Robin Ryder](https://sites.google.com/site/robryd/), Paris-Dauphine.
   - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
