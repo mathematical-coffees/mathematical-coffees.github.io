@@ -9,8 +9,8 @@ Slides
 ----
 
 - [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS): [Curses and Blessings of High Dimension](../slides/mc08-peyre.pdf).
-- [Julie Delon](https://delon.wp.imt.fr/) (Paris 5): [not so intuitive phenomena in high dimension](../slides/mc08-delon.pdf).
-- [Jalal Fadili](https://fadili.users.greyc.fr/) (ENSICaen): [model selection in high-dimension](../slides/mc08-fadili.pdf).
+- [Julie Delon](https://delon.wp.imt.fr/) (Paris 5): [The Curse of Dimensionality](../slides/mc08-delon.pdf).
+- [Jalal Fadili](https://fadili.users.greyc.fr/) (ENSICaen): [Model Selection in High-dimension](../slides/mc08-fadili.pdf).
 
 
 Resources
