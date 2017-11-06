@@ -34,14 +34,13 @@ Available
 8. [Curses and Blessing of High Dimension](../mc08-high-dimension) (Sep. 11th, 14h-17h)
   - [Julie Delon](https://delon.wp.imt.fr/), Paris 5.   
   - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
-
+9. [Computational Bayesian Inference](../mc09-bayesian-computations) (Nov. 6th, 14h-17h)
+  - [Robin Ryder](https://sites.google.com/site/robryd/), Paris-Dauphine.
+  - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
 
 To come
 ---
 
-9. Bayesian Inference (Nov. 6th, 14h-17h)
-  - [Robin Ryder](https://sites.google.com/site/robryd/), Paris-Dauphine.
-  - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
 10. Parallel Stochastic Computing (Dec. 19th, 14h-17h)
   - [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/), Paris-Est.  
   - [Fabian Pedregosa](http://fa.bianp.net/), INRIA.
