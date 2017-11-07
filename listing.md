@@ -37,6 +37,6 @@ Available
 9. [Computational Bayesian Inference](../mc09-bayesian-computations) (Nov. 6th, 14h-17h)
   - [Robin Ryder](https://sites.google.com/site/robryd/), Paris-Dauphine.
   - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
-10. Parallel Stochastic Computing (Dec. 19th, 14h-17h)
+10. [Parallel Stochastic Computing](mc10-parallel-stochastic.md) (Dec. 19th, 14h-17h)
   - [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/), Paris-Est.  
   - [Fabian Pedregosa](http://fa.bianp.net/), ETH and UC Berkeley.
