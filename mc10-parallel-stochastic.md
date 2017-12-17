@@ -16,4 +16,7 @@ Slides
 Resources
 ----
 
-- See the related Mathematical Coffee session on [Convex Optimization](../mc04-cvx-optim).
+- [The proximity operator repository](http://proximity-operator.net/): a comprehensive website about first order methods, with code in Python and Matlab.
+- [Scikit-Learn](http://scikit-learn.org/): machine learning in Python, contains implementations of many basic proximal splitting methods.
+- [The numerical Tours of Signal Processing](http://www.numerical-tours.com) (in Matlab, Python and Julia) contains a section dedicated to convex optimization, with applications.
+- See also the related Mathematical Coffee session on [Convex Optimization](../mc04-cvx-optim).
