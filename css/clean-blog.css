@@ -11,6 +11,11 @@ p {
 p a {
   text-decoration: underline;
 }
+
+a {
+  text-decoration: underline !important;
+}
+
 h1,
 h2,
 h3,
