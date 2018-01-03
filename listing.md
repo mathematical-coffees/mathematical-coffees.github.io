@@ -10,34 +10,34 @@ You can find bellow the list of Mathematical Coffees. The chairman of these semi
 Session 2018
 ---
 
-1. Friday January 19th: Advanced deep learning
+1. Advanced deep learning (Friday January 19th, 14h-16h)
   - [Edouard Oyallon](https://edouardoyallon.github.io/), Centrale ParisTech.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
-2. Friday February 16th: Advanced non-smooth optimization
+2. Advanced non-smooth optimization (Friday February 16th, 14h-16h)
   - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
-3. Friday 16 March 14h-16h: Advanced machine learning
+3. Advanced machine learning (Friday 16 March, 14h-16h)
   - [Alexandre Gramfort](http://alexandre.gramfort.net/), INRIA.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.  
-4. Friday April 6th: Advanced compressive sensing
+4. Advanced compressive sensing (Friday April 6th, 14h-16h)
   - [Guillaume Lecué](http://lecueguillaume.github.io/), CNRS and ENSAE.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
-5. Friday May 4th: Deep generative models meet optimal transport
+5. Deep generative models meet optimal transport (Friday May 4th, 14h-16h)
   - [Marco Cuturi](http://marcocuturi.net/), ENSAE.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
-6. Juin (date TBC): Scit-learn and Panda frameworks
+6. Scit-learn and Panda frameworks (June, date TBC, 14h-16h)
   - [Olivier Grisel](http://ogrisel.com/) (INRIA)
   - [Joris Van den Bossche](https://fr.linkedin.com/in/jorisvandenbossche) (INRIA)
-7. Friday September 14th: Mean Field Games and applications
+7. Mean Field Games and applications (Friday September 14th, 14h-16h)
   - [Olivier Guéant](http://www.oliviergueant.com/), Paris 1.
   - [Yves Achdou](https://www.ljll.math.upmc.fr/achdou/), Paris 6.
-8. Octobre (date TBA) : Topos of information
+8. Topos of information (October, date TBA, 14h-16h)
   - [Daniel Bennequin](https://webusers.imj-prg.fr/~daniel.bennequin/), Paris 7.
   - TBA.
-9. November (date TBA): Advanced non-linear signal processing
+9. Advanced non-linear signal processing (November, date TBA, 14h-16h)
   - TBA
   - TBA.
-10. December (date TBA): Quantum computing
+10. Quantum computing (December, date TBA, 14h-16h)
   - [Frédéric Magniez](https://www.irif.fr/~magniez/), CNRS and Paris 7.
   - [Iordanis Kerenidis](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html), CNRS and Paris 7.
 
