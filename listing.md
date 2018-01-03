@@ -1,13 +1,48 @@
 ---
 layout: page
 title: "Mathematical Coffees"
-description: "List for 2017"
+description: "List of the sessions"
 header-img: "img/2295096211_1c641c008e_b.jpg"
 ---
 
-You can find bellow the list of Mathematical Coffees for 2017. The chairman of these seminar is [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS).
+You can find bellow the list of Mathematical Coffees. The chairman of these seminar is [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS).
 
-Available
+Session 2018
+---
+
+1. Friday January 19th: Advanced deep learning
+  - [Edouard Oyallon](https://edouardoyallon.github.io/), Centrale ParisTech.
+  - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
+2. Friday February 16th: Advanced non-smooth optimization
+  - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
+  - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
+3. Friday 16 March 14h-16h: Advanced machine learning
+  - [Alexandre Gramfort](http://alexandre.gramfort.net/), INRIA.
+  - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.  
+4. Friday April 6th: Advanced compressive sensing
+  - [Guillaume Lecué](http://lecueguillaume.github.io/), CNRS and ENSAE.
+  - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
+5. Friday May 4th: Deep generative models meet optimal transport
+  - [Marco Cuturi](http://marcocuturi.net/), ENSAE.
+  - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
+6. Juin (date TBC): Scit-learn and Panda frameworks
+  - [Olivier Grisel](http://ogrisel.com/) (INRIA)
+  - [Joris Van den Bossche](https://fr.linkedin.com/in/jorisvandenbossche) (INRIA)
+7. Friday September 14th: Mean Field Games and applications
+  - [Olivier Guéant](http://www.oliviergueant.com/), Paris 1.
+  - [Yves Achdou](https://www.ljll.math.upmc.fr/achdou/), Paris 6.
+8. Octobre (date TBA) : Topos of information
+  - [Daniel Bennequin](https://webusers.imj-prg.fr/~daniel.bennequin/), Paris 7.
+  - TBA.
+9. November (date TBA): Advanced non-linear signal processing
+  - TBA
+  - TBA.
+10. December (date TBA): Quantum computing
+  - [Frédéric Magniez](https://www.irif.fr/~magniez/), CNRS and Paris 7.
+  - [Iordanis Kerenidis](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html), CNRS and Paris 7.
+
+
+Session 2017
 ---
 
 1. [Optimal Transport Meets Machine Learning](../mc01-ot), (Jan. 20, 14h-17h):

@@ -12,7 +12,6 @@ Slides
 - [Emilie Chouzenoux](http://www-syscom.univ-mlv.fr/~chouzeno/), Paris-Est: [Stochastic optimization](../slides/mc10-chouzenoux.pdf).  
 - [Fabian Pedregosa](http://fa.bianp.net/), ETH and UC Berkeley: [Parallel Computing](../slides/mc10-pedregosa.pdf).
 
-
 Resources
 ----
 
