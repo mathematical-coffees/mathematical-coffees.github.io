@@ -11,7 +11,7 @@ Session 2018
 ---
 
 1. Advanced deep learning (Friday January 19th, 14h-16h)
-  - [Edouard Oyallon](https://edouardoyallon.github.io/), Centrale ParisTech.
+  - [Edouard Oyallon](https://edouardoyallon.github.io/), CentraleSupelec.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
 2. Advanced non-smooth optimization (Friday February 16th, 14h-16h)
   - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.

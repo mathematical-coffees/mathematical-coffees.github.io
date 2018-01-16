@@ -23,7 +23,7 @@ List of Speakers for 2018
 - [Iordanis Kerenidis](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html), CNRS and Paris 7.
 - [Guillaume Lecué](http://lecueguillaume.github.io/), CNRS and ENSAE.
 - [Frédéric Magniez](https://www.irif.fr/~magniez/), CNRS and Paris 7.
-- [Edouard Oyallon](https://edouardoyallon.github.io/), Centrale ParisTech.
+- [Edouard Oyallon](https://edouardoyallon.github.io/), CentraleSupelec.
 - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
 - [Joris Van den Bossche](https://fr.linkedin.com/in/jorisvandenbossche) (INRIA)
 
