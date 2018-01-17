@@ -10,34 +10,34 @@ You can find bellow the list of Mathematical Coffees. The chairman of these semi
 Session 2018
 ---
 
-1. Advanced deep learning (Friday January 19th, 14h-16h)
+1. [Advanced deep learning](../mc11-advanced-dl) (Friday January 19th, 14h-16h30)
   - [Edouard Oyallon](https://edouardoyallon.github.io/), CentraleSupelec.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
-2. Advanced non-smooth optimization (Friday February 16th, 14h-16h)
+2. Advanced non-smooth optimization (Friday February 16th, 14h-16h30)
   - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
-3. Advanced machine learning (Friday 16 March, 14h-16h)
+3. Advanced machine learning (Friday 16 March, 14h-16h30)
   - [Alexandre Gramfort](http://alexandre.gramfort.net/), INRIA.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.  
-4. Advanced compressive sensing (Friday April 6th, 14h-16h)
+4. Advanced compressive sensing (Friday April 6th, 14h-16h30)
   - [Guillaume Lecué](http://lecueguillaume.github.io/), CNRS and ENSAE.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
-5. Deep generative models meet optimal transport (Friday May 4th, 14h-16h)
+5. Deep generative models meet optimal transport (Friday May 4th, 14h-16h30)
   - [Marco Cuturi](http://marcocuturi.net/), ENSAE.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
-6. Scit-learn and Panda frameworks (June, date TBC, 14h-16h)
+6. Scit-learn and Panda frameworks (June, date TBC, 14h-16h30)
   - [Olivier Grisel](http://ogrisel.com/) (INRIA)
   - [Joris Van den Bossche](https://fr.linkedin.com/in/jorisvandenbossche) (INRIA)
-7. Mean Field Games and applications (Friday September 14th, 14h-16h)
+7. Mean Field Games and applications (Friday September 14th, 14h-16h30)
   - [Olivier Guéant](http://www.oliviergueant.com/), Paris 1.
   - [Yves Achdou](https://www.ljll.math.upmc.fr/achdou/), Paris 6.
-8. Topos of information (October, date TBA, 14h-16h)
+8. Topos of information (October, date TBA, 14h-16h30)
   - [Daniel Bennequin](https://webusers.imj-prg.fr/~daniel.bennequin/), Paris 7.
   - TBA.
-9. Advanced non-linear signal processing (November, date TBA, 14h-16h)
+9. Advanced non-linear signal processing (November, date TBA, 14h-16h30)
   - TBA
   - TBA.
-10. Quantum computing (December, date TBA, 14h-16h)
+10. Quantum computing (December, date TBA, 14h-16h30)
   - [Frédéric Magniez](https://www.irif.fr/~magniez/), CNRS and Paris 7.
   - [Iordanis Kerenidis](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html), CNRS and Paris 7.
 
