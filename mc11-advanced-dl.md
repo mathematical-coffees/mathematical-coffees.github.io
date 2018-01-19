@@ -9,7 +9,7 @@ Slides
 ----
 
 - [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS): [Differential programming](../slides/mc11-peyre.pdf).
-- [Edouard Oyallon](https://edouardoyallon.github.io/), CentraleSupelec, [A road into deep learning](../slides/mc11-oyallon.pdf).
+- [Edouard Oyallon](https://edouardoyallon.github.io/), (CentraleSupelec), [A road into deep learning](../slides/mc11-oyallon.pdf).
 
 
 Computational resources
