@@ -13,7 +13,7 @@ Session 2018
 1. [Advanced deep learning](../mc11-advanced-dl) (Friday January 19th, 14h-16h30)
   - [Edouard Oyallon](https://edouardoyallon.github.io/), CentraleSupelec.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
-2. Advanced non-smooth optimization (Friday February 16th, 14h-16h30)
+2. [Advanced non-smooth optimization](../mc12-advanced-optim) (Friday February 16th, 14h-16h30)
   - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
 3. Advanced machine learning (Friday 16 March, 14h-16h30)
