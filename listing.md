@@ -16,7 +16,7 @@ Session 2018
 2. [Advanced non-smooth optimization](../mc12-advanced-optim) (Friday February 16th, 14h-16h30)
   - [Jalal Fadili](https://fadili.users.greyc.fr/), ENSICaen.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
-3. Advanced machine learning (Friday 16 March, 14h-16h30)
+3. [Advanced machine learning](../mc13-advanced-ml) (Friday 16 March, 14h-16h30)
   - [Alexandre Gramfort](http://alexandre.gramfort.net/), INRIA.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.  
 4. Advanced compressive sensing (Friday April 6th, 14h-16h30)
@@ -33,10 +33,9 @@ Session 2018
   - [Yves Achdou](https://www.ljll.math.upmc.fr/achdou/), Paris 6.
 8. Topos of information (October, date TBA, 14h-16h30)
   - [Daniel Bennequin](https://webusers.imj-prg.fr/~daniel.bennequin/), Paris 7.
-  - TBA.
+  - [Alain Berthoz](https://www.college-de-france.fr/site/alain-berthoz/index.htm), Collège de France.
 9. Advanced non-linear signal processing (November, date TBA, 14h-16h30)
-  - TBA
-  - TBA.
+  - [Philippe Ciblat](https://perso.telecom-paristech.fr/ciblat/), Telecom ParisTech.
 10. Quantum computing (December, date TBA, 14h-16h30)
   - [Frédéric Magniez](https://www.irif.fr/~magniez/), CNRS and Paris 7.
   - [Iordanis Kerenidis](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html), CNRS and Paris 7.
