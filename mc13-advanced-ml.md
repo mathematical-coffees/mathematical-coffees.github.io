@@ -8,7 +8,7 @@ header-img: "img/coffee-1324126_1280.jpg"
 Slides
 ----
 
-- [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS): [Supervised Learning via Empirical Risk Minimization](../slides/mc07-peyre.pdf).
+- [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS): [Supervised Learning via Empirical Risk Minimization](../slides/mc12-peyre.pdf) [(+ written notes)](../slides/mc12-peyre-notes.pdf).
 - [Alexandre Gramfort](http://alexandre.gramfort.net/) (INRIA): [Unsupervised Learning via Clustering](../slides/mc12-gramfort.pdf).
 
 
