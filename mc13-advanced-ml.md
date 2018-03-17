@@ -21,8 +21,14 @@ Computational resources
 Bibliography
 ----
 
-Here is a (biased) bibliography related to the lectures.
+General references on machine learning:
 
 - Kevin Patrick Murphy, [Machine Learning: a Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/), MIT Press, 2012.
 - Jerome H. Friedman, Robert Tibshirani et Trevor Hastie, [The Elements of Statistical Learning](https://statweb.stanford.edu/~tibs/ElemStatLearn/), Springer, 2009.
 - H. W. Engl, M. Hanke, and A. Neubauer, [Regularization of Inverse Problems](http://www.springer.com/br/book/9780792341574), Springer, 2000.
+
+Bibliography on convergence rates for ridge regression:
+
+- Frank Bauer, Sergei Pereverzev, Lorenzo Rosasco, [On Regularization Algorithms in Learning Theory](https://pdfs.semanticscholar.org/2361/255c1c6927419a5bb80779f510a785f70adf.pdf).
+- Gabriel Peyré [Mathematical Tours
+of Data Sciences](https://mathematical-tours.github.io/).
