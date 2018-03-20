@@ -31,10 +31,10 @@ Session 2018
 7. Mean Field Games and applications (Friday September 14th, 14h-16h30)
   - [Olivier Guéant](http://www.oliviergueant.com/), Paris 1.
   - [Yves Achdou](https://www.ljll.math.upmc.fr/achdou/), Paris 6.
-8. Topos of information (October, date TBA, 14h-16h30)
+8. Topos of information (Friday October 12th, 14h-16h30)
   - [Daniel Bennequin](https://webusers.imj-prg.fr/~daniel.bennequin/), Paris 7.
   - [Alain Berthoz](https://www.college-de-france.fr/site/alain-berthoz/index.htm), Collège de France.
-9. Advanced non-linear signal processing (November, date TBA, 14h-16h30)
+9. Advanced non-linear signal processing (Friday November 9th, 14h-16h30)
   - [Philippe Ciblat](https://perso.telecom-paristech.fr/ciblat/), Telecom ParisTech.
 10. Quantum computing (December, date TBA, 14h-16h30)
   - [Frédéric Magniez](https://www.irif.fr/~magniez/), CNRS and Paris 7.
