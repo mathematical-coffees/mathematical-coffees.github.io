@@ -19,7 +19,7 @@ Session 2018
 3. [Advanced machine learning](../mc13-advanced-ml) (Friday 16 March, 14h-16h30)
   - [Alexandre Gramfort](http://alexandre.gramfort.net/), INRIA.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.  
-4. Advanced compressive sensing (Friday April 6th, 14h-16h30)
+4. [Advanced compressive sensing](../mc14-cs) (Friday April 6th, 14h-16h30)
   - [Guillaume Lecué](http://lecueguillaume.github.io/), CNRS and ENSAE.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
 5. Deep generative models meet optimal transport (Friday May 4th, 14h-16h30)
