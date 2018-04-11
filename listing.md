@@ -25,7 +25,7 @@ Session 2018
 5. Deep generative models meet optimal transport (Friday May 4th, 14h-16h30)
   - [Marco Cuturi](http://marcocuturi.net/), ENSAE.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
-6. Scit-learn and Panda frameworks (June, date TBC, 14h-16h30)
+6. Scit-learn and Panda frameworks (Friday 8th June, 14h-16h30)
   - [Olivier Grisel](http://ogrisel.com/) (INRIA)
   - [Joris Van den Bossche](https://fr.linkedin.com/in/jorisvandenbossche) (INRIA)
 7. Mean Field Games and applications (Friday September 14th, 14h-16h30)
