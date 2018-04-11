@@ -9,7 +9,7 @@ Slides
 ----
 
 - [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS): [A convex tour of sparse regularization](../slides/mc14-peyre.pdf).
-- [Guillaume Lecué](http://lecueguillaume.github.io/) (CNRS and ENSAE): [Incoherence and structured regularization](../slides/mc14-lecue.pdf).
+- [Guillaume Lecué](http://lecueguillaume.github.io/) (CNRS and ENSAE): Incoherence and structured regularization [(Jupyter notebook)](../slides/mc14-lecue.zip).
 
 Computational resources
 ----
