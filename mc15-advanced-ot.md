@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Deep generative models meet optimal transport"
-description: "Mai 4th, 14h-17h"
+description: "Mai 4th, 14h30-17h"
 header-img: "img/3178970893_c8c52ac6b8_b.jpg"
 ---
 

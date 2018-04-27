@@ -22,7 +22,7 @@ Session 2018
 4. [Advanced compressive sensing](../mc14-cs) (Friday April 6th, 14h-16h30)
   - [Guillaume Lecué](http://lecueguillaume.github.io/), CNRS and ENSAE.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
-5. [Deep generative models meet optimal transport](mc15-advanced-ot) (Friday May 4th, 14h-16h30)
+5. [Deep generative models meet optimal transport](mc15-advanced-ot) (Friday May 4th, 14h30-17h00)
   - [Marco Cuturi](http://marcocuturi.net/), ENSAE.
   - [Gabriel Peyré](http://www.gpeyre.com), CNRS and ENS.
 6. Scikit-learn and Panda frameworks (Friday 8th June, 14h-16h30)
