@@ -9,7 +9,7 @@ Slides
 ----
 
 - [Gabriel Peyré](http://www.gpeyre.com) (CNRS and ENS): [Comparing probability distributions](../slides/mc15-peyre.pdf).
-- [Marco Cuturi](http://marcocuturi.net/), (ENSAE): [Optimal Transport for Unsupervised Learning](../slides/mc15-cuturi.pdf).
+- [Marco Cuturi](http://marcocuturi.net/), (ENSAE): [Optimal Transport for Unsupervised Learning](https://speakerdeck.com/gpeyre/optimal-transport-for-imaging-and-learning).
 
 Computational resources
 ----
