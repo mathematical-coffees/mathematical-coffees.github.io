@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mean field games"
-description: "Friday 8th June, 14h-16h30"
+description: "Friday September 14th, 14h-16h30"
 header-img: "img/3178970893_c8c52ac6b8_b.jpg"
 ---
 
