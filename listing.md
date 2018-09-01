@@ -28,9 +28,8 @@ Session 2018
 6. [Scikit-learn and Panda frameworks](../mc16-scikitlearn-panda) (Friday 8th June, 14h-16h30)
   - [Olivier Grisel](http://ogrisel.com/) (INRIA)
   - [Joris Van den Bossche](https://fr.linkedin.com/in/jorisvandenbossche) (INRIA)
-7. Mean Field Games and applications (Friday September 14th, 14h-16h30)
+7. [Mean Field Games and applications](../mc17-mfg) (Friday September 14th, 14h-16h30)
   - [Olivier Guéant](http://www.oliviergueant.com/), Paris 1.
-  - [Yves Achdou](https://www.ljll.math.upmc.fr/achdou/), Paris 6.
 8. Topos of information (Friday October 12th, 14h-16h30)
   - [Daniel Bennequin](https://webusers.imj-prg.fr/~daniel.bennequin/), Paris 7.
   - [Alain Berthoz](https://www.college-de-france.fr/site/alain-berthoz/index.htm), Collège de France.
