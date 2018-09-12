@@ -8,7 +8,7 @@ header-img: "img/3178970893_c8c52ac6b8_b.jpg"
 Slides
 ----
 
-[Olivier Guéant](https://www.oliviergueant.com/) (Paris 1), An introduction to mean field games and their applications.
+[Olivier Guéant](https://www.oliviergueant.com/) (Paris 1), [An introduction to mean field games and their applications](../slides/mc17-gueant.pdf).
 
 
 Abstract

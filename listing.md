@@ -30,15 +30,14 @@ Session 2018
   - [Joris Van den Bossche](https://fr.linkedin.com/in/jorisvandenbossche) (INRIA)
 7. [Mean Field Games and applications](../mc17-mfg) (Friday September 14th, 14h-16h30)
   - [Olivier Guéant](http://www.oliviergueant.com/), Paris 1.
-8. Topos of information (Friday October 12th, 14h-16h30)
+8. [Topos of information](../mc18-topos) (Friday October 12th, 14h-16h30)
   - [Daniel Bennequin](https://webusers.imj-prg.fr/~daniel.bennequin/), Paris 7.
   - [Alain Berthoz](https://www.college-de-france.fr/site/alain-berthoz/index.htm), Collège de France.
-9. Advanced non-linear signal processing (Friday November 9th, 14h-16h30)
+9. [Advanced non-linear signal processing](../mc19-signal) (Friday November 9th, 14h-16h30)
   - [Philippe Ciblat](https://perso.telecom-paristech.fr/ciblat/), Telecom ParisTech.
-10. Quantum computing (December, date TBA, 14h-16h30)
-  - [Frédéric Magniez](https://www.irif.fr/~magniez/), CNRS and Paris 7.
-  - [Iordanis Kerenidis](https://www.irif.fr/~jkeren/jkeren/Iordanis_Kerenidis.html), CNRS and Paris 7.
-
+10. [Quantum computing](../mc20-quantum) (Friday December, 7th -- TBC, 14h-16h30)
+  - [Anupam Prakash](https://simons.berkeley.edu/people/anupam-prakash), Berkley.
+  - [Andre Chaillou](https://who.paris.inria.fr/Andre.Chailloux/), INRIA.
 
 Session 2017
 ---

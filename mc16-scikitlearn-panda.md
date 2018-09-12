@@ -11,7 +11,7 @@ Slides
 - [Olivier Grisel](http://ogrisel.com/) (INRIA), Presentation of Scikit-learn.
 - [Joris Van den Bossche](https://fr.linkedin.com/in/jorisvandenbossche) (INRIA), Presentation of Panda.
 
-Computational resources
+Computational resources and slides
 ----
 
 - [Scikit-Learn](http://scikit-learn.org/): [Videos](http://scikit-learn.org/stable/presentations.html)
