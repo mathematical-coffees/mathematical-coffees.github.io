@@ -24,7 +24,7 @@ pedagogy. It reaches the elderly and is therefore a complex and diversified tran
 
 
 Daniel Bennequin
--------
+----
 
 _Bio:_ Daniel Bennequin studied at the Ecole Normale Supérieure (ENS) Ulm in Paris and defended his thesis at Paris VII under the direction of Alain Chenciner in 1982. He was a graduate student at ENS Ulm, Professor at University of Strasbourg, then at the University Paris VII where he is emeritus since 2018. During the 80s he was the initiator of the topology of contact with Yakov Eliashberg. During the 1990s, he worked on integrative systems and geometry in physics. Since 2000 Daniel Bennequin also works in neuroscience, on the time of human movements, the flow of visual-vestibular information, the relation form and function in the labyrinth, the role of gaze in locomotion, primary visual maps. His most recent publications focus on the geometry of elementary particles (Arxiv Physics 2016), the information topology (with P. Baudot), psychic pain (with M. Bompard-Porte), the geometries of topos of voluntary movements ( with A. Berthoz).
 
