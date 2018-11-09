@@ -37,7 +37,9 @@ Session 2018
   - [Philippe Ciblat](https://perso.telecom-paristech.fr/ciblat/), Telecom ParisTech.
 10. [Quantum computing](../mc20-quantum) (Friday December, 7th -- TBC, 14h-16h30)
   - [Anupam Prakash](https://simons.berkeley.edu/people/anupam-prakash), Berkley.
-  - [Andre Chaillou](https://who.paris.inria.fr/Andre.Chailloux/), INRIA.
+  - [Elham Kashefi](https://ekashefi.wordpress.com/), Paris 6: TBA.
+
+
 
 Session 2017
 ---

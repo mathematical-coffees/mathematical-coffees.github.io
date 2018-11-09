@@ -9,7 +9,7 @@ Slides
 ----
 
   - [Anupam Prakash](https://simons.berkeley.edu/people/anupam-prakash), Berkley: [Quantum algorithms for machine learning and optimization](../slides/mc20-prakash.pdf)
-  - [Andre Chaillou](https://who.paris.inria.fr/Andre.Chailloux/), INRIA: TBA.
+  - [Elham Kashefi](https://ekashefi.wordpress.com/), LIP6, Paris 6: TBA.
 
 Papers
 ----
