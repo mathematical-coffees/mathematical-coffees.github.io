@@ -9,7 +9,7 @@ Slides
 ----
 
   - [Anupam Prakash](https://simons.berkeley.edu/people/anupam-prakash), Berkley: [Quantum algorithms for machine learning and optimization](../slides/mc20-prakash.pdf)
-  - [Elham Kashefi](https://ekashefi.wordpress.com/), LIP6, Paris 6: TBA.
+  - [Elham Kashefi](https://ekashefi.wordpress.com/), LIP6, Paris 6: Quantum Internet.
 
 Papers
 ----
@@ -21,4 +21,4 @@ Papers
 Resources
 ----
 
-TBA.
+- [Quantum Internet project](http://quantum-internet.team/)
